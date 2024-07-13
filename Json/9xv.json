@@ -2,19 +2,14 @@
   "apkUrl": "",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.sidhbalitech.ninexplayer",
   "subtitle": "MTY3LjExNC45OC42MC9+c2t5bWVkaWFwbGF5ZXIvc3VidGl0bGVzLXYy",
-  "versionName": "1.4",
-  "versionCode": 5,
+  "versionName": "1.5",
+  "versionCode": 6,
   "updateType": 0,
   "allowCheckAppVersion": true,
   "allowCheckUpdate": false,
   "allowAppVersion": [
-    1,
-    2,
-    3,
-    4,
-    5,
     6,
     7,
-    8
+    8,9,10
   ]
 }
