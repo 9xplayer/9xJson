@@ -7,9 +7,8 @@
   "updateType": 0,
   "allowCheckAppVersion": true,
   "allowCheckUpdate": false,
+  "isAllowOtherStoreInstall": false,
   "allowAppVersion": [
-    6,
-    7,
-    8,9,10
+    8,9,10,11,12,13,14
   ]
 }
