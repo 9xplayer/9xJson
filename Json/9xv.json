@@ -1,5 +1,5 @@
 {
-  "apkUrl": "",
+  "apkUrl": "https://raw.githubusercontent.com/rahuldvrn/JsonApp/main/app/xtream.apk",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.sidhbalitech.ninexplayer",
   "subtitle": "MTY3LjExNC45OC42MC9+c2t5bWVkaWFwbGF5ZXIvc3VidGl0bGVzLXYy",
   "versionName": "2.0",
@@ -8,8 +8,47 @@
   "allowCheckAppVersion": true,
   "allowCheckUpdate": false,
   "isAllowOtherStoreInstall": true,
-  "adId": "ca-app-pub-4580163722251989/8620456237",
   "allowAppVersion": [
-    10,11,12,13,14
-  ]
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "downloadType": "PlayStore",
+  "downloadApk": "",
+  "pro": {
+    "isAllow": true,
+    "otherAllow": true
+  },
+  "stopApp": false,
+  "contact": {
+    "email": "9x.playerpro@gmail.com",
+    "telegram": "https://t.me/sidhbalitech_9xplayer_support",
+    "telegramGroup": "https://t.me/+XwP1h6-KQEgyYTI1",
+    "youtube": "https://www.youtube.com/channel/UCm0YTpSLECS9cqaOEvyyKlA",
+    "skype": "https://join.skype.com/invite/Vpftk3rQnbBH",
+    "phone": "",
+    "insta": "",
+    "fb": "",
+    "website": "https://sidhbalitech-9xplayer.web.app/"
+  },
+  "appE": {
+    "pkg": "Y29tLnNpZGhiYWxpdGVjaC5uaW5leHBsYXllcg==",
+    "p1": "Y29t",
+    "p2": "c2lkaGJhbGl0ZWNo",
+    "p3": "bmluZXhwbGF5ZXI=",
+    "n1": "OVg=",
+    "n2": "UGxheWVy"
+  },
+  "appInfo": {
+    "name": "9X Player",
+    "pkgn": "com.sidhbalitech.ninexplayer",
+    "tmKey": "50408cb946b1a603c9bbcb4ff1703a7c"
+  },
+  "ads": {
+    "adBannerId": "ca-app-pub-4580163722251989/8620456237"
+  }
 }
