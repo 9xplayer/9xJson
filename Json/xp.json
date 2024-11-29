@@ -9,7 +9,7 @@
   "allowCheckUpdate": false,
   "isAllowOtherStoreInstall": true,
   "allowAppVersion": [
-    21,22,23,24,25,26
+    23,24,25,26
   ],
   "downloadType": "PlayStore",
   "downloadApk": "",
