@@ -7,7 +7,7 @@
   "updateType": 0,
   "allowCheckAppVersion": true,
   "allowCheckUpdate": false,
-  "isAllowOtherStoreInstall": true,
+  "isAllowOtherStoreInstall": false,
   "allowAppVersion": [
     23,24,25,26
   ],
