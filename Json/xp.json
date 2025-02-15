@@ -9,7 +9,7 @@
   "allowCheckUpdate": false,
   "isAllowOtherStoreInstall": false,
   "allowAppVersion": [
-    25,26,27,28
+    26,27,28
   ],
   "downloadType": "PlayStore",
   "downloadApk": "",
@@ -21,7 +21,7 @@
   "contact": {
     "email": "xpiptv.player@gmail.com",
     "telegram": "https://t.me/xpiptvplayer",
-    "telegramGroup": "https://t.me/+XwP1h6-KQEgyYTI1",
+    "telegramGroup": "https://t.me/xpiptvoffical",
     "youtube": "https://www.youtube.com/channel/UCm0YTpSLECS9cqaOEvyyKlA",
     "skype": "https://join.skype.com/invite/Vpftk3rQnbBH",
     "phone": "",
@@ -45,7 +45,7 @@
   "ads": {
     "adBannerId": "ca-app-pub-4580163722251989/8620456237",
     "isAdAllowOtherStoreApp": false,
-    "isTvAd": false,
+    "isTvAd": true,
     "fullAds": true
   }
 }
