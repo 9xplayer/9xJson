@@ -48,5 +48,10 @@
     "isAdAllowOtherStoreApp": false,
     "isTvAd": true,
     "fullAds": true
-  }
+  },
+    "block": {
+        "p3": "etrontv",
+        "disableEmulator": true,
+        "disableModelName" : "emulator,simulator"
+    }
 }
