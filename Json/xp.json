@@ -2,14 +2,14 @@
   "apkUrl": "https://raw.githubusercontent.com/rahuldvrn/JsonApp/main/app/xtream.apk",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.sidhbalitech.ninexplayer",
   "subtitle": "MTY3LjExNC45OC42MC9+c2t5bWVkaWFwbGF5ZXIvc3VidGl0bGVzLXYy",
-  "versionName": "3.1.8",
-  "versionCode": 26,
+  "versionName": "3.1.9",
+  "versionCode": 27,
   "updateType": 0,
   "allowCheckAppVersion": true,
   "allowCheckUpdate": false,
   "isAllowOtherStoreInstall": false,
   "allowAppVersion": [
-    26,27,28
+    27,28
   ],
   "downloadType": "PlayStore",
   "downloadApk": "",
@@ -23,7 +23,7 @@
     "telegram": "https://t.me/xpiptvplayer",
     "telegramGroup": "https://t.me/xpiptvoffical",
     "youtube": "https://www.youtube.com/channel/UCm0YTpSLECS9cqaOEvyyKlA",
-    "skype": "https://join.skype.com/invite/Vpftk3rQnbBH",
+    "skype": "",
     "phone": "",
     "wAppChannel": "https://whatsapp.com/channel/0029Vb0bQBsAO7R9dHkXK11M",
     "insta": "",
