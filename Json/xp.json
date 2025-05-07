@@ -50,7 +50,7 @@
     "fullAds": true
   },
     "block": {
-        "p3": "etrontv",
+        "p3": "etrontv,starshare",
         "disableEmulator": true,
         "disableModelName" : "emulator,simulator"
     }
