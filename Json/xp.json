@@ -46,7 +46,7 @@
   "ads": {
     "adBannerId": "ca-app-pub-4580163722251989/8620456237",
     "isAdAllowOtherStoreApp": false,
-    "isTvAd": true,
+    "isTvAd": false,
     "fullAds": true
   },
     "block": {
