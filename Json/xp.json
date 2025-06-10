@@ -2,14 +2,14 @@
   "apkUrl": "https://raw.githubusercontent.com/rahuldvrn/JsonApp/main/app/xtream.apk",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.sidhbalitech.ninexplayer",
   "subtitle": "MTY3LjExNC45OC42MC9+c2t5bWVkaWFwbGF5ZXIvc3VidGl0bGVzLXYy",
-  "versionName": "3.1.9",
-  "versionCode": 27,
+  "versionName": "4.0",
+  "versionCode": 28,
   "updateType": 0,
   "allowCheckAppVersion": true,
   "allowCheckUpdate": false,
   "isAllowOtherStoreInstall": false,
   "allowAppVersion": [
-    25,26,27,28
+    24,25,26,27,28,29,30,31
   ],
   "downloadType": "PlayStore",
   "downloadApk": "",
