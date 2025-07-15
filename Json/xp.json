@@ -52,6 +52,7 @@
     "block": {
         "p3": "etrontv,starshare,sky",
         "disableEmulator": true,
-        "disableModelName" : "emulator,simulator"
+        "disableModelName" : "emulator,simulator",
+        "demoP" : "demo,ibo"
     }
 }
