@@ -45,7 +45,7 @@
   },
   "ads": {
     "adBannerId": "ca-app-pub-4580163722251989/8620456237",
-    "inters": "ca-app-pub-4580163722251989/3948153092",
+    "adIntersId": "ca-app-pub-4580163722251989/3948153092",
     "isAdAllowOtherStoreApp": false,
     "isTvAd": false,
     "fullAds": true
@@ -54,6 +54,6 @@
         "p3": "etrontv,starshare,sky",
         "disableEmulator": true,
         "disableModelName" : "emulator,simulator",
-        "demoP" : "demo,ibo"
+        "demoP" : "ibo"
     }
 }
