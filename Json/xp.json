@@ -9,7 +9,7 @@
   "updateType": 0,
   "allowCheckAppVersion": true,
   "allowCheckUpdate": false,
-  "isAllowOtherStoreInstall": false,
+  "isAllowOtherStoreInstall": true,
   "allowAppVersion": [
     30,31,32,33,34,35,36
   ],
@@ -22,7 +22,7 @@
   "stopApp": false,
   "contact": {
     "email": "xpiptv.pro@gmail.com",
-    "telegram": "https://t.me/xtreamplayer_devcoder",
+    "telegram": "",
     "telegramGroup": "https://t.me/xpiptvoffical",
     "youtube": "https://www.youtube.com/channel/UCm0YTpSLECS9cqaOEvyyKlA",
     "skype": "",
