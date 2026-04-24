@@ -53,7 +53,7 @@
     "fullAds": true
   },
     "block": {
-        "p3": "etrontv,starshare,sky,xtv,opplex,xciptv,smart4k,hexa4k",
+        "p3": "etrontv,starshare,sky,xtv,opplex,xciptv,smart4k,hexa4k,webhop,rolextv,imediaent",
         "disableEmulator": true,
         "disableModelName" : "emulator,simulator",
         "demoP" : "ibo"
