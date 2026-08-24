@@ -22,12 +22,12 @@
   "stopApp": false,
   "contact": {
     "email": "xpiptv.pro@gmail.com",
-    "telegram": "",
+    "telegram": "https://t.me/xtreamplayer_devcoder",
     "telegramGroup": "https://t.me/xpiptvoffical",
-    "youtube": "https://www.youtube.com/channel/UCm0YTpSLECS9cqaOEvyyKlA",
+    "youtube": "",
     "skype": "",
     "phone": "",
-    "wAppChannel": "https://whatsapp.com/channel/0029Vb0bQBsAO7R9dHkXK11M",
+    "wAppChannel": "",
     "insta": "",
     "fb": "",
     "website": "https://xpplayer.vercel.app"
@@ -48,7 +48,7 @@
   "ads": {
     "adBannerId": "ca-app-pub-4580163722251989/8620456237",
     "adIntersId": "ca-app-pub-4580163722251989/3948153092",
-    "mobIntersAdId": "ca-app-pub-4580163722251989/1371007126",
+    "mobNativeId": "ca-app-pub-4580163722251989/1371007126",
     "isAdAllowOtherStoreApp": false,
     "isTvAd": false,
     "fullAds": true
