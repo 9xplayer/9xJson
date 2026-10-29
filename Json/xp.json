@@ -4,14 +4,14 @@
   "subtitle": "MTY3LjExNC45OC42MC9+c2t5bWVkaWFwbGF5ZXIvc3VidGl0bGVzLXYy",
   "tc": "https://xpplayer.vercel.app/terms",
   "pp":"https://xpplayer.vercel.app/privacy",
-  "versionName": "4.1.1",
-  "versionCode": 30,
+  "versionName": "4.1.6",
+  "versionCode": 35,
   "updateType": 0,
   "allowCheckAppVersion": true,
   "allowCheckUpdate": false,
   "isAllowOtherStoreInstall": false,
   "allowAppVersion": [
-    30,31,32,33,34,35,36
+   34,35,36,37,38,39,40
   ],
   "downloadType": "PlayStore",
   "downloadApk": "",
@@ -23,11 +23,11 @@
   "contact": {
     "email": "xpiptv.pro@gmail.com",
     "telegram": "https://t.me/xtreamplayer_devcoder",
-    "telegramGroup": "https://t.me/xpiptvoffical",
+    "telegramGroup": "https://t.me/+Z4Fm3Z7wn1I1NjI9",
     "youtube": "",
     "skype": "",
     "phone": "",
-    "wAppChannel": "",
+    "wAppChannel": "https://chat.whatsapp.com/HUPhaUtdh2v38IF1GVx8ZD?s=cl&p=a&iam=2",
     "insta": "",
     "fb": "",
     "website": "https://xpplayer.vercel.app"
